@@ -1,0 +1,1 @@
+EXEC dbo.usp_soccer_players_by_team;
