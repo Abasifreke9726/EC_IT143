@@ -1,0 +1,1 @@
+EXEC dbo.usp_credit_card_spending_by_member;
